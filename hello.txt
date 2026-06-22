@@ -4,8 +4,4 @@ second
 
 third 1
 
-<<<<<<< HEAD
-local change
-=======
 origin change
->>>>>>> 175d705c9bb317313acb759b790adcea4b8c0764
